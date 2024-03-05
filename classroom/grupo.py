@@ -33,7 +33,8 @@ class Grupo:
             self.listadoAlumnos = self.listadoAlumnos + lista
 
     def __str__(self):
-        return "Grupo de estudiante: " + self._grupo
+        return "Grupo de estudiantes: " + self._grupo
+
 
 
 
